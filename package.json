@@ -1,0 +1,35 @@
+{
+  "name": "semantic-release-test3",
+  "version": "0.0.0-development",
+  "author": "鹅鹅鹅 <1977474741@qq.com>",
+  "description": "semantic-release测试",
+  "main": "index.js",
+  "homepage": "https://github.com/1977474741/semantic-release-test.git",
+  "dependencies": {
+    "spa-custom-hooks": "^1.2.5",
+    "vue-inset-loader": "^1.2.6",
+    "vue-waterfall-rapid": "^1.0.25"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1977474741/semantic-release-test.git"
+  },
+  "files": [
+    "/package.json",
+    "/index.js",
+    "/README.md"
+  ],
+  "npm": "https://www.npmjs.com/package/semantic-release-test",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^19.0.2"
+  },
+  "license": "ISC",
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  }
+}
