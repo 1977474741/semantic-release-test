@@ -19,7 +19,7 @@
     "/index.js",
     "/README.md"
   ],
-  "npm": "https://www.npmjs.com/package/semantic-release-test",
+  "npm": "https://www.npmjs.com/package/semantic-release-test3",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
