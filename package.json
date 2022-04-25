@@ -1,5 +1,5 @@
 {
-  "name": "semantic-release-test3",
+  "name": "semantic-release-test5",
   "version": "0.0.0-development",
   "author": "鹅鹅鹅 <1977474741@qq.com>",
   "description": "semantic-release测试",
@@ -19,7 +19,7 @@
     "/index.js",
     "/README.md"
   ],
-  "npm": "https://www.npmjs.com/package/semantic-release-test3",
+  "npm": "https://www.npmjs.com/package/semantic-release-test5",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
