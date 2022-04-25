@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-test3",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "author": "鹅鹅鹅 <1977474741@qq.com>",
   "description": "semantic-release测试",
   "main": "index.js",
