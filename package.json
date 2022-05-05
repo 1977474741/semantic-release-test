@@ -1,33 +1,27 @@
 {
   "name": "semantic-release-test5",
-  "version": "1.1.0",
-  "author": "鹅鹅鹅 <1977474741@qq.com>",
-  "description": "semantic-release测试",
-  "main": "index.js",
-  "homepage": "https://github.com/1977474741/semantic-release-test.git",
-  "dependencies": {
-    "spa-custom-hooks": "^1.2.5",
-    "vue-inset-loader": "^1.2.6",
-    "vue-waterfall-rapid": "^1.0.25"
-  },
+  "npm": "https://www.npmjs.com/package/semantic-release-test5",
   "repository": {
     "type": "git",
     "url": "https://github.com/1977474741/semantic-release-test.git"
   },
-  "files": [
-    "/package.json",
-    "/index.js",
-    "/README.md"
-  ],
-  "npm": "https://www.npmjs.com/package/semantic-release-test5",
-  "devDependencies": {
-    "@semantic-release/changelog": "^6.0.1",
-    "@semantic-release/git": "^10.0.1",
-    "semantic-release": "^19.0.2"
+  "author": "鹅鹅鹅 <1977474741@qq.com>",
+  "description": "semantic-release测试",
+  "homepage": "https://github.com/1977474741/semantic-release-test.git",
+  "main": "index.js",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "license": "ISC",
-  "scripts": {
-    "semantic-release": "semantic-release"
+  "dependencies": {
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "vite": "^2.9.7"
   },
   "publishConfig": {
     "access": "public"
