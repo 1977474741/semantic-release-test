@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/1977474741/semantic-release-test/compare/v1.2.0...v1.3.0) (2022-05-05)
+
+
+### Features
+
+* 测试semantic-release-gh-pages-plugin ([471beea](https://github.com/1977474741/semantic-release-test/commit/471beea48cbb5923be689f577c70a0813ef7bcc9))
+
 # [1.2.0](https://github.com/1977474741/semantic-release-test/compare/v1.1.0...v1.2.0) (2022-05-05)
 
 
