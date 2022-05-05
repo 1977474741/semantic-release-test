@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/1977474741/semantic-release-test/compare/v1.1.0...v1.2.0) (2022-05-05)
+
+
+### Features
+
+* 1.demo改为可打包的vite+vue3项目 ([093538d](https://github.com/1977474741/semantic-release-test/commit/093538da50846db870a4d4ad9a46d6e6cb99bffa))
+
 # [1.1.0](https://github.com/1977474741/semantic-release-test/compare/v1.0.0...v1.1.0) (2022-04-25)
 
 
