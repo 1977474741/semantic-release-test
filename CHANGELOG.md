@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/1977474741/semantic-release-test/compare/v1.3.0...v1.4.0) (2022-05-06)
+
+
+### Features
+
+* 修改actions配置 ([76e1e90](https://github.com/1977474741/semantic-release-test/commit/76e1e90da12972ee297f0ef82ad7af3285259e65))
+
 # [1.3.0](https://github.com/1977474741/semantic-release-test/compare/v1.2.0...v1.3.0) (2022-05-05)
 
 
