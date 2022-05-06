@@ -9,8 +9,8 @@
           "@qiwi/semantic-release-gh-pages-plugin",
           {
             "msg": "build",
-            "branch": "gh-pages",
-            "src": "docs"
+            "branch": "main",
+            "src": "docs/"
           }
         ],
         [
