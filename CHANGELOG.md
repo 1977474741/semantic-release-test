@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/1977474741/semantic-release-test/compare/v1.4.0...v1.5.0) (2022-05-06)
+
+
+### Features
+
+* 测试发布 ([ae00a0d](https://github.com/1977474741/semantic-release-test/commit/ae00a0d6733024541b1f657c54c8ab72853ad60b))
+
 # [1.4.0](https://github.com/1977474741/semantic-release-test/compare/v1.3.0...v1.4.0) (2022-05-06)
 
 
