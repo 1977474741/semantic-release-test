@@ -1,3 +1,10 @@
+## [1.5.4](https://github.com/1977474741/semantic-release-test/compare/v1.5.3...v1.5.4) (2022-05-06)
+
+
+### Performance Improvements
+
+* 测试发布ci ([f9980fe](https://github.com/1977474741/semantic-release-test/commit/f9980fe4ebf648bbc22cab3d99f4b09e036fe1f8))
+
 ## [1.5.3](https://github.com/1977474741/semantic-release-test/compare/v1.5.2...v1.5.3) (2022-05-06)
 
 
