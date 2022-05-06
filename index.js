@@ -2,7 +2,7 @@ var { createCanvas } = require('canvas');
 var echarts = require('echarts');
 echarts.setCanvasCreator(createCanvas);
 
-console.log('test2');
+console.log('test3');
 module.exports = {
     init: function(width,height){
         let w = width || 300,
