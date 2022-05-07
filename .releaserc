@@ -1,18 +1,8 @@
 {
     "branches": "main",
     "plugins": [
-        [
-            "@semantic-release/commit-analyzer",
-            {
-                "preset": "atom"
-            }
-        ],
-        [
-            "@semantic-release/release-notes-generator",
-            {
-                "preset": "atom"
-            }
-        ],
+        "@semantic-release/commit-analyzer",
+        "@semantic-release/release-notes-generator",
         "@semantic-release/changelog",
         "@semantic-release/npm",
         "@semantic-release/github",
