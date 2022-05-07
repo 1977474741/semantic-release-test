@@ -1,3 +1,10 @@
+## [1.5.7](https://github.com/1977474741/semantic-release-test/compare/v1.5.6...v1.5.7) (2022-05-07)
+
+
+### Performance Improvements
+
+* 测试semantic-release-gh-pages-plugin打包推送到指定分支指定目录 ([7431ef2](https://github.com/1977474741/semantic-release-test/commit/7431ef2bff2366100e0a8d6bf2994ec65b7642da))
+
 ## [1.5.6](https://github.com/1977474741/semantic-release-test/compare/v1.5.5...v1.5.6) (2022-05-07)
 
 
