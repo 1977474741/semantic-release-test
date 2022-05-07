@@ -18,6 +18,8 @@
         ],
     ],
     "publish": [
+        "@semantic-release/npm",
+        "@semantic-release/github",
         {
             "path": "@qiwi/semantic-release-gh-pages-plugin",
             "branch": "main",
