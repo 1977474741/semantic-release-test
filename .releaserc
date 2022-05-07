@@ -5,15 +5,6 @@
         "@semantic-release/release-notes-generator",
         "@semantic-release/changelog",
         "@semantic-release/npm",
-        [
-            "@qiwi/semantic-release-gh-pages-plugin",
-            {
-                "msg": "build",
-                "branch": "main",
-                "src": "docs/",
-                "dst": "docs/"
-            }
-        ],
         "@semantic-release/github",
         [
             "@semantic-release/git",
@@ -26,4 +17,14 @@
             }
         ],
     ],
+    "publish": [
+        "@semantic-release/npm",
+        "@semantic-release/github",
+        {
+            "path": "@qiwi/semantic-release-gh-pages-plugin",
+            "branch": "main",
+            "msg": "updated",
+            "dst": "docs/"
+        }
+    ]
 }
