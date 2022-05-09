@@ -9,7 +9,7 @@ const count = ref(0)
 </script>
 
 <template>
-  <h1>{{ msg }}test</h1>
+  <h1>{{ msg }}test啊</h1>
 
   <p>
     Recommended IDE setup:
