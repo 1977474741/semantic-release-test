@@ -1,3 +1,18 @@
+## [1.5.11](https://github.com/1977474741/semantic-release-test/compare/v1.5.10...v1.5.11) (2022-05-09)
+
+
+### Performance Improvements
+
+* 测试@semantic-release/release-notes-generator更改commit解析预以及样式 ([c9bc44c](https://github.com/1977474741/semantic-release-test/commit/c9bc44c10946ac0229b00808818d7fb385c5d832))
+* 测试@semantic-release/release-notes-generator更改commit解析预以及样式 ([9a4fd01](https://github.com/1977474741/semantic-release-test/commit/9a4fd0115eb58d1ae291ec3530241138c4d3a034))
+* 测试@semantic-release/release-notes-generator更改commit解析预以及样式 ([47d4676](https://github.com/1977474741/semantic-release-test/commit/47d4676208248b4aaae4043efe29d41bc946183c))
+* 测试ci ([6f6c53d](https://github.com/1977474741/semantic-release-test/commit/6f6c53d9170dcc064b22e789e82814ed08190410))
+
+
+### Reverts
+
+* 测试ci ([67639c9](https://github.com/1977474741/semantic-release-test/commit/67639c92cd36f172cccfda2943e61aef8dac8b6a))
+
 ## [1.5.10](https://github.com/1977474741/semantic-release-test/compare/v1.5.9...v1.5.10) (2022-05-07)
 
 
