@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/1977474741/semantic-release-test/compare/v1.5.11...v1.6.0) (2022-05-09)
+
+
+### Features
+
+* 测试合并main后ci ([c8655ab](https://github.com/1977474741/semantic-release-test/commit/c8655ab342f1143f30e5cb8e7656918e0a3c0eda))
+
 ## [1.5.11](https://github.com/1977474741/semantic-release-test/compare/v1.5.10...v1.5.11) (2022-05-09)
 
 
