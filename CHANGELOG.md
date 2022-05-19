@@ -1,3 +1,12 @@
+# [1.8.0](https://github.com/1977474741/semantic-release-test/compare/v1.7.0...v1.8.0) (2022-05-19)
+
+
+### Features
+
+* 测试合并main后ci ([c7af6c7](https://github.com/1977474741/semantic-release-test/commit/c7af6c7e6b4f5d3d768a6d468ede41a0b1208509))
+* 测试合并main后ci ([60652f3](https://github.com/1977474741/semantic-release-test/commit/60652f3500cfa1f85409da5faa01bec4410d81f1))
+* 测试多个jobs ([5d2713b](https://github.com/1977474741/semantic-release-test/commit/5d2713b0e6d2d3e0553c801877fc5370d8eae5a3))
+
 # [1.7.0](https://github.com/1977474741/semantic-release-test/compare/v1.6.0...v1.7.0) (2022-05-09)
 
 
