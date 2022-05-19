@@ -42,10 +42,10 @@ jobs:
         run: npx semantic-release
   
   # 任务2
-  release2:
-    name: Release2
-    runs-on: ubuntu-20.04
-    steps:
+  # release2:
+  #   name: Release2
+  #   runs-on: ubuntu-20.04
+  #   steps:
       # 1.检出你在当前github工作空间的项目
       # - name: Checkout
       #   uses: actions/checkout@v3
