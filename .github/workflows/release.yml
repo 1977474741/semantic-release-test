@@ -20,7 +20,9 @@ jobs:
         # 具体参数 https://github.com/actions/checkout
         with:
           fetch-depth: 1
-        run: git checkout dev
+
+      - run: git checkout dev
+      
         # 2.安装node
       - name: Setup Node.js
         uses: actions/setup-node@v1
