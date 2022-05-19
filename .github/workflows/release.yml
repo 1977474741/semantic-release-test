@@ -47,7 +47,7 @@ jobs:
         run: npx semantic-release
   
   # 任务2
-  release2:
+  release2: 
     name: Release2
     runs-on: ubuntu-20.04
     steps:
