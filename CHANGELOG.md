@@ -1,3 +1,12 @@
+更新日志
+
+# [1.10.0](https://github.com/1977474741/semantic-release-test/compare/v1.9.0...v1.10.0) (2022-05-19)
+
+
+### Features
+
+* changelog加标题 ([51d03ca](https://github.com/1977474741/semantic-release-test/commit/51d03cad7e225c4bad75f80f1c390427ad17e5d4))
+
 # [1.9.0](https://github.com/1977474741/semantic-release-test/compare/v1.8.0...v1.9.0) (2022-05-19)
 
 
