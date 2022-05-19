@@ -13,6 +13,8 @@
                 "changelogTitle": "更新日志"
             }
         ],
+        # 自动修改版本号并发布npm包
+        "@semantic-release/npm",
         [
             # 自动提交并设置不再次触发ci，以免造成循环
             "@semantic-release/git",
@@ -26,8 +28,6 @@
         ],
     ],
     "publish": [
-        # 自动修改版本号并发布npm包
-        "@semantic-release/npm",
         # 自动打tag并发布github版本
         "@semantic-release/github",
         {
