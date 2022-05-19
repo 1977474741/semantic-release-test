@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/1977474741/semantic-release-test/compare/v1.8.0...v1.9.0) (2022-05-19)
+
+
+### Features
+
+* 测试多个jobs ([aac145b](https://github.com/1977474741/semantic-release-test/commit/aac145b514c23dab9b6e82ab37ff32aed28a5d56))
+
 # [1.8.0](https://github.com/1977474741/semantic-release-test/compare/v1.7.0...v1.8.0) (2022-05-19)
 
 
