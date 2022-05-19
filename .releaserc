@@ -14,7 +14,12 @@
             }
         ],
         # 自动修改版本号并发布npm包
-        "@semantic-release/npm",
+        [
+            "@semantic-release/npm",
+            {
+                "npmPublish": true
+            }
+        ],
         [
             # 自动提交并设置不再次触发ci，以免造成循环
             "@semantic-release/git",
