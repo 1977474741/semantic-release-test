@@ -1,5 +1,12 @@
 更新日志
 
+# [1.13.0](https://github.com/1977474741/semantic-release-test/compare/v1.12.0...v1.13.0) (2022-05-19)
+
+
+### Features
+
+* 测试发布npm包 ([74043ae](https://github.com/1977474741/semantic-release-test/commit/74043ae3303f11f0ef39d927fe606c002ac35556))
+
 # [1.12.0](https://github.com/1977474741/semantic-release-test/compare/v1.11.0...v1.12.0) (2022-05-19)
 
 
