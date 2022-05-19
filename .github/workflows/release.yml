@@ -15,12 +15,12 @@ jobs:
     # 具体步骤
     steps:
       # 1.检出你在当前github工作空间的项目
-      # - name: Checkout
-      #   uses: actions/checkout@v3
-      #   # 具体参数 https://github.com/actions/checkout
-      #   with:
-      #     fetch-depth: 1
-
+      - name: Checkout
+        uses: actions/checkout@v3
+        # 具体参数 https://github.com/actions/checkout
+        with:
+          fetch-depth: 1
+        run: git checkout dev
         # 2.安装node
       - name: Setup Node.js
         uses: actions/setup-node@v1
