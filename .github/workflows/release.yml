@@ -21,7 +21,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - run: git checkout dev
+      - run: git checkout test
       
         # 2.安装node
       - name: Setup Node.js
