@@ -1,9 +1,13 @@
+# name字段是 workflow 的名称。如果省略该字段，默认为当前 workflow 的文件名。
 name: Release
+# on字段指定触发jobs工作流的条件，通常是某些事件，比如push、fork，支持数组。
 on:
   # 完整事件列表 https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
   push:
     branches:
       - main
+
+# 每个任务都会创建独立的工作空间，互不共享
 jobs:
   # 任务1
   release1:
@@ -19,9 +23,8 @@ jobs:
         uses: actions/checkout@v3
         # 具体参数 https://github.com/actions/checkout
         with:
-          fetch-depth: 0
-
-      - run: git checkout test
+          # 1.只检出当前分支 0.检出所有分支
+          fetch-depth: 1
       
         # 2.安装node
       - name: Setup Node.js
