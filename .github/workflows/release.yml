@@ -11,7 +11,7 @@ jobs:
     # 虚拟机环境，可用环境 https://github.com/actions/virtual-environments
     runs-on: ubuntu-20.04
     # 依赖release2
-    needs: [release2]
+    # needs: [release2]
     # 具体步骤
     steps:
       # 1.检出你在当前github工作空间的项目
