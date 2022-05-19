@@ -22,7 +22,7 @@
             "path": "@qiwi/semantic-release-gh-pages-plugin",
             "branch": "gh-pages",
             "msg": "更新demo",
-            "dst": "/"
+            "dst": "."
         }
     ]
 }

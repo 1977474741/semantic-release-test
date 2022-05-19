@@ -35,3 +35,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx semantic-release
+  release3:
+    runs-on: ubuntu-20.04
+    steps:
+        # 3.打包
+      - name: build
+        run: npm i && npm run build
