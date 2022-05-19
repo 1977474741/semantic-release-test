@@ -20,9 +20,9 @@
         "@semantic-release/github",
         {
             "path": "@qiwi/semantic-release-gh-pages-plugin",
-            "branch": "main",
+            "branch": "gh-pages",
             "msg": "更新demo",
-            "dst": "docs/"
+            "dst": "/"
         }
     ]
 }
