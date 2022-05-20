@@ -1,11 +1,12 @@
 {
     "branches": "main",
     "plugins": [
-        # 发布类型分析器，要遵循的提交规范，默认是angular规范， https://github.com/semantic-release/commit-analyzer#options
+        # 发布类型分析器，要遵循的提交规范，默认是angular规范
+        # 所有规范 https://github.com/semantic-release/commit-analyzer#options
         "@semantic-release/commit-analyzer",
         # 发布说明内容生成器，可以配置具体内容
         "@semantic-release/release-notes-generator",
-        # 生成版本更新log文档，或者把生成的内容插入到log文档中
+        # 生成changelog文件
         [
             "@semantic-release/changelog",
             {
@@ -13,10 +14,10 @@
                 "changelogTitle": "更新日志"
             }
         ],
-        # 自动修改版本号并发布npm包
+        # 自动修改版本号
         "@semantic-release/npm",
         [
-            # 自动提交并设置不再次触发ci，以免造成循环
+            # 自动提交并设置[skip ci]不会再次触发ci，以免造成循环
             "@semantic-release/git",
             {
                 "assets": [
@@ -28,6 +29,7 @@
         ],
     ],
     "publish": [
+        # 发布npm包
         "@semantic-release/npm",
         # 自动打tag并发布github版本
         "@semantic-release/github",
