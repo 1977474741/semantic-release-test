@@ -1,5 +1,13 @@
 更新日志
 
+# [1.18.0](https://github.com/1977474741/semantic-release-test/compare/v1.17.0...v1.18.0) (2022-05-20)
+
+
+### Features
+
+* 测试ci ([fab2768](https://github.com/1977474741/semantic-release-test/commit/fab2768965c913c870e4951c95968ea05f1ea69b))
+* 测试ci2 ([3c8b490](https://github.com/1977474741/semantic-release-test/commit/3c8b490a542cdd9ec342f78b80ea2a3a8f23c22e))
+
 # [1.17.0](https://github.com/1977474741/semantic-release-test/compare/v1.16.0...v1.17.0) (2022-05-19)
 
 
